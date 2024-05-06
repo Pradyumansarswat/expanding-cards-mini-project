@@ -12,7 +12,7 @@ panels.forEach(panel => {
     })
 
 })
-
+dfghjkllkjhgfd,./.,mnbvcvbnm,.
 
 
 function removeActiveClasses(){
